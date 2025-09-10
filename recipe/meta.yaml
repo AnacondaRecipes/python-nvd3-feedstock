@@ -55,7 +55,7 @@ about:
     for d3.js without taking away the power that d3.js offers you.
     Python-NVD3 makes your life easy! You write Python and the library
     renders JavaScript for you!
-  doc_url: https://python-nvd3.readthedocs.io/en/latest
+  doc_url: https://python-nvd3.readthedocs.io
   dev_url: https://github.com/simplejson/simplejson
 
 extra:
